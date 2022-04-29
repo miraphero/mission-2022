@@ -1,0 +1,215 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+   
+/* Top Banner Styles */
+#top-banner{
+    height: 500px;
+    padding-bottom: 100px;
+}
+.half-width h1{
+    font-size: 60px;
+font-family: 'Yeseva One', cursive;
+border-left: 4px solid;
+border-image: linear-gradient(180deg, #14174A, #B06B87);
+border-image-slice: 1;
+padding-left: 20px;
+
+}
+
+.color-heading{
+    color: #14174A;
+}
+.half-width{
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+}
+.half-width img{
+    width: 80%;
+    padding-top: 20px;
+}
+
+.anchor-button{
+    border: none;
+    width: 172px;
+    height: 48px;
+    border-radius: 5px;
+    padding: 12px;
+    background-image: linear-gradient(45deg,#14174A, #B06B87  );
+    color: #ffffff;
+    font-size: large;
+}
+.title-area{
+    padding-top: 120px;
+    padding-left: 6%;
+}
+
+
+/* Mission Section Styles */
+#mission-section{
+    height: 500px;
+    padding-bottom: 100px;
+}
+h2{
+    font-size: 48px;
+    text-align: center;
+    font-weight: 700;
+}
+.container{
+    padding-left: 180px;
+    
+}
+.mission-box{
+    width: 380px;
+    height: 376px;
+    float: left;
+    padding: 20px;
+    border-radius: 15px;
+    margin: 15px;
+}
+.mission-box img{
+    width: 50%;
+}
+#box1{
+    background:linear-gradient(360deg, #AF8ACA, lightgray) ;
+}
+#box2{
+    background:linear-gradient(360deg,  lightgray, #E8D5B5) ;
+}
+#box3{
+    background:linear-gradient(360deg,#C27A7D , lightgray ) ;
+}
+
+/* Develop Sectin Styles */
+#develop-section{
+    height: 400px;
+    padding-bottom: 70px;
+}
+#develop-img{
+    width: 25%;
+    float: left;
+    padding-left: 80px;
+    margin-right: 130px;
+}
+#develop-img img{
+  width: 120%;
+}
+#develop-text-area{
+    padding-top: 60px;
+    width: 49%;
+    float: left;
+    margin-left: 72px;
+}
+h3{
+    font-size: 36px;
+    font-weight: 700;
+}
+.document-btn{
+    width: 243px;
+    height: 48px;
+}
+
+/* Community Section Styles */
+
+   #community-section{
+       height: 400px;
+padding-top: 80px;                 
+padding-bottom: 200px;
+   }
+   #community-text-area{
+       float: left;
+       width: 50%;
+       padding-left: 180px;
+
+   }
+   #community-img{
+       width: 30%;
+       float: left;
+       /* padding-top: 0 ; */
+   }
+   #community-img img{
+       width: 110%;
+       padding-bottom: 100px;
+   }
+
+   /* App Section */
+
+   #app-section{
+       height: 800px;
+       padding-top: 30px;
+       padding-bottom: 100px;
+       background:linear-gradient(360deg, #AF8ACA, lightgray) ;
+    }
+   #app-font-change{
+       font-family:'Yeseva One', cursive;
+   }
+.container-3{
+    padding-left: 300px;
+}
+   #box-first{
+       width: 30%;
+       float: left;
+       margin-right: 50px;
+       
+   }
+   #box-first img{
+       width: 105%;
+   }
+   #box-second{
+float: left;
+margin-top: 170px;
+   }
+   #box-third{
+
+float: left;
+   }
+.box-second{
+    height: 290px;
+    width: 330px;
+    border: none;
+    border-radius: 30px;
+    background-color: #201548;
+    margin: 15px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+.box-second img{
+    padding-top: 40px;
+}
+.box-second p{
+    color: #ffffff;
+}
+.number{
+    font-size: 45px;
+    font-weight: 400;
+    
+}
+.inside-box{
+    height: 50px;
+}
+
+
+/* Footer Section Styles */
+#footer-section{
+    height: 180px;
+ background:linear-gradient(180deg, black, #201548);
+ color: #ffffff;
+ text-align: center;
+}
+#footer-h3{
+    padding-top: 39px;
+    font-size: 36px;
+    font-family: 'Lobster Two';
+    letter-spacing: 1.2px;
+    word-spacing: 2px;
+}
+#footer-h3 span{
+    color: #C27A7D;
+
+    font-weight: bold;
+
+}
