@@ -10,7 +10,7 @@ body{
 /* Top Banner Styles */
 #top-banner{
     height: 500px;
-    padding-bottom: 100px;
+    padding-bottom: 150px;
 }
 .half-width h1{
     font-size: 60px;
@@ -46,10 +46,13 @@ padding-left: 20px;
     font-size: large;
 }
 .title-area{
-    padding-top: 120px;
+    padding-top: 160px;
     padding-left: 6%;
 }
-
+.title-area p{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
 
 /* Mission Section Styles */
 #mission-section{
@@ -60,6 +63,7 @@ h2{
     font-size: 48px;
     text-align: center;
     font-weight: 700;
+    padding-bottom: 35px;
 }
 .container{
     padding-left: 150px;
@@ -210,6 +214,7 @@ float: left;
     font-family: 'Lobster Two';
     letter-spacing: 1.2px;
     word-spacing: 2px;
+    padding-bottom: 35px;
 }
 #footer-h3 span{
     color: #C27A7D;
