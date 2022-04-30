@@ -141,8 +141,12 @@ padding-bottom: 150px;
    #app-section{
        height: 800px;
        padding-top: 30px;
-       padding-bottom: 100px;
+       padding-bottom: 50px;
        background:linear-gradient(360deg, #AF8ACA, lightgray) ;
+    }
+    #app-section h2{
+        padding-top: 20px;
+        padding-bottom: 30px;
     }
     #app-font-change{
        font-family:'Yeseva One', cursive;
