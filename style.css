@@ -60,7 +60,7 @@ h2{
     font-weight: 700;
 }
 .container{
-    padding-left: 140px;
+    padding-left: 160px;
     
 }
 .mission-box{
@@ -92,7 +92,7 @@ h2{
 #develop-img{
     width: 25%;
     float: left;
-    padding-left: 40px;
+    padding-left: 60px;
     margin-right: 130px;
 }
 #develop-img img{
@@ -123,7 +123,7 @@ padding-bottom: 200px;
    #community-text-area{
        float: left;
        width: 50%;
-       padding-left: 140px;
+       padding-left: 160px;
 
    }
    #community-img{
